@@ -4,7 +4,7 @@ https://dragon-torch.tech/cat-components/rf-modules/e220-900t22s-jp/
 
 E220-900T22S(JP) の動作確認用ライブラリです。
 
-ボードは以下を使用してください。
+ボードは以下を使用してください。<br>
 https://arduino-pico.readthedocs.io/en/latest/index.html
 
 ## ライブラリの機能
