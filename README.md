@@ -2,7 +2,7 @@
 以下のESP32用ArduinoライブラリをRaspberry Pi Pico用のArduinoライブラリに改造したものです。<br>
 https://dragon-torch.tech/cat-components/rf-modules/e220-900t22s-jp/
 
-E220-900T22S(JP) の動作確認用のライブラリです。
+E220-900T22S(JP) の動作確認用ライブラリです。
 
 ## ライブラリの機能
 このライブラリでは、以下の機能を提供します。
